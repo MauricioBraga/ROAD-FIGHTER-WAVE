@@ -2,11 +2,11 @@
 
 This repository contains a patch to the original Road Figher game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) computers.  
 
-
+![Road Fighter Screenshot](Road_fighter_wave.png)
 
 ## 🛠️ Project Description
 
-The **patch** provided in this project is meant to be applied to the original game ROM and it will add new music in WAVE format, replacing the original PSG music. 
+The **patch** provided in this project is meant to be applied to the original game ROM and it will add new music in WAVE format, replacing the original PSG music. A complete set with SIX new songs was made to this game (one to each level of the game). The original songs (played at game over, start and end of the race, were also rearranged ).  
 
 In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge](https://www.msxpico.com/), made by Jeroen Taverne. It requires the latest firmware released in MSX Pico website.
 
