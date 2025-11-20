@@ -10,23 +10,26 @@ The **patch** provided in this project is meant to be applied to the original ga
 
 In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge](https://www.msxpico.com/), made by Jeroen Taverne. It requires the latest firmware released in MSX Pico website.
 
+Current version of this patch is v. 1.1.
+
 Some features added to the original game:
 
+- Sound test screen, activated pressing ESC in the credits screen.
 - A new MSX palette, with better colors, added when running in a MSX2 computer.
 - Pause, pressing F1 during gameplay.
 - SFX engine volume control, pressing INS (+) and DEL (-).
 
-Sound effects remain being played by PSG.  
+Sound effects remain being played by PSG. SFX engine volume starts in a reduced level.  
 
 ## hash
 
 The file to be patched must have the following hash:
 
-**SHA256**:   ``
+**SHA256**:   `6d36c9e9b6a6b93f642722dcd314834d01e519ab3a98d7e4ca257468bcaf29e1`
 
-**SHA1**:     ``
+**SHA1**:     `7abdf08e9c0a511b8182c502ed8c5f42778437e9`
 
-**MD5**:      ``
+**MD5**:      `8ae5b5c13f45321f555ab1103092ad76`
 
 The patch can be applied with any patcher software that supports the IPS file format, e.g. Lunar IPS.
 
