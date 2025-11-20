@@ -10,7 +10,11 @@ The **patch** provided in this project is meant to be applied to the original ga
 
 In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge](https://www.msxpico.com/), made by Jeroen Taverne. It requires the latest firmware released in MSX Pico website.
 
-A new MSX palette, with better colors, is also added when running in a MSX2 computer.
+Some features added to the original game:
+
+- A new MSX palette, with better colors, added when running in a MSX2 computer.
+- Pause, pressing F1 during gameplay.
+- SFX engine volume control, pressing INS (+) and DEL (-).
 
 Sound effects remain being played by PSG.  
 
