@@ -1,4 +1,4 @@
-# Road Fighter WAVE patch
+# Road Fighter WAVE
 
 This repository contains a patch to the original Road Figher game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) computers.  
 
