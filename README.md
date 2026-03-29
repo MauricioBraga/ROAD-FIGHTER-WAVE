@@ -2,7 +2,11 @@
 
 This repository contains a patch to the original Road Figher game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) computers.  
 
-![Road Fighter Screenshot](Road_fighter_wave.png)
+You can see the game running with the new music clicking in the image below.
+
+[![Watch the game with the patch here](Road_fighter_wave.png)](https://youtu.be/qpdlbkBaEWg)
+
+
 
 ## 🛠️ Project Description
 
